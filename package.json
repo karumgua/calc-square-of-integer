@@ -1,0 +1,19 @@
+{
+  "name": "calc-square-of-integer",
+  "version": "1.0.0",
+  "description": "my very first node module package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karumgua/calc-square-of-integer.git"
+  },
+  "author": "Karthik Arumugham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karumgua/calc-square-of-integer/issues"
+  },
+  "homepage": "https://github.com/karumgua/calc-square-of-integer#readme"
+}
